@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_examples">
+        <item>1</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>1a</item>
+        <item>1b</item>
+        <item>1v</item>
+        <item>1d</item>
+        <item>1f</item>
+        <item>1z</item>
+        <item>1x</item>
+        <item>1c</item>
+        <item>1c</item>
+        <item>1b</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+        <item>1n</item>
+    </string-array>
+</resources>
