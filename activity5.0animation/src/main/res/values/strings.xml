@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">Activity5.0Animation</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">activity animation</string>
+    <string name="txt">
+        blog
+    </string>
+    <string name="action_settings">设置</string>
 </resources>
