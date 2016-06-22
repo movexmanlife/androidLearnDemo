@@ -64,10 +64,13 @@ public class MainActivity extends AppCompatActivity {
             RxView.clicks(rxbindingFabFab).subscribe(delayTest::testDelay2);
         */
 
-        TakeTest takeTest = new TakeTest(getApplicationContext());
-        RxView.clicks(rxbindingFabFab).subscribe(takeTest::testTake);
+//        TakeTest takeTest = new TakeTest(getApplicationContext());
+//        RxView.clicks(rxbindingFabFab).subscribe(takeTest::testTake);
 
 //        RepeatTest repeatTest = new RepeatTest(getApplicationContext());
 //        RxView.clicks(rxbindingFabFab).subscribe(repeatTest::testRepeat);
+
+        ConcatMapTest takeTest = new ConcatMapTest(getApplicationContext());
+        RxView.clicks(rxbindingFabFab).subscribe(takeTest::testConcatMap3);
     }
 }
